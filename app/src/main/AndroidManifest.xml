@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.klikzdaj">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.KlikZdaj">
+        <activity
+            android:name=".DrawerActivity"
+            android:label="@string/title_activity_drawer"
+            android:theme="@style/Theme.KlikZdaj.NoActionBar"></activity>
+        <activity android:name=".Klasa2Activity" />
+        <activity android:name=".Klasa3Activity" />
+        <activity android:name=".Klasa4Activity" />
+        <activity android:name=".Klasa5Activity" />
+        <activity android:name=".Klasa6Activity" />
+        <activity android:name=".Klasa7Activity" />
+        <activity android:name=".Klasa8Activity" />
+        <activity android:name=".BookmarkActivity" />
+        <activity android:name=".ScoreActivity" />
+        <activity android:name=".QuestionsActivity" />
+        <activity android:name=".SetsActivity" />
+        <activity android:name=".MainActivity" />
+        <activity android:name=".SplashActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

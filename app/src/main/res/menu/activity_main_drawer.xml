@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_klasa1"
+            android:icon="@drawable/ic_klasa1"
+            android:title="@string/klasa_1" />
+        <item
+            android:id="@+id/nav_klasa2"
+            android:icon="@drawable/ic_klasa2"
+            android:title="@string/klasa_2" />
+        <item
+            android:id="@+id/nav_klasa3"
+            android:icon="@drawable/ic_klasa3"
+            android:title="@string/klasa_3" />
+        <item
+            android:id="@+id/nav_klasa4"
+            android:icon="@drawable/klasa4"
+            android:title="@string/klasa_4" />
+        <item
+            android:id="@+id/nav_klasa5"
+            android:icon="@drawable/klasa5"
+            android:title="@string/klasa_5" />
+        <item
+            android:id="@+id/nav_klasa6"
+            android:icon="@drawable/klasa6"
+            android:title="@string/klasa_6" />
+        <item
+            android:id="@+id/nav_klasa7"
+            android:icon="@drawable/klasa7"
+            android:title="@string/klasa_7" />
+        <item
+            android:id="@+id/nav_klasa8"
+            android:icon="@drawable/klasa8"
+            android:title="@string/klasa_8" />
+        <item
+            android:id="@+id/zapisane"
+            android:icon="@drawable/bookmark"
+            android:title="@string/zapisane" />
+    </group>
+</menu>
