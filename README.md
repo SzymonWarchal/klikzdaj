@@ -6,12 +6,22 @@ Aplikacja wykorzystuje kategoryzacje zagadnień dla każdej z klas. W celu przej
 
 # Zrzuty interfejsu aplikacji
 ![alt zrzut1](/screenshots/1.jpg)
+
 Ekran startowy Splash wraz z główną aktywnością aplikacji wyświetlającą dostępne zagadnienia dla konkretnej klasy
+
+
 ![alt zrzut2](/screenshots/2.jpg)
+
 Przejście po wyborze tematu do strony z teorią i wyborem testu
+
+
 ![alt zrzut3](/screenshots/3.jpg)
+
 Wygląd testu, reakcja na wybór poprawnej lub niepoprawnej odpowiedzi, wynik testu
+
+
 ![alt zrzut4](/screenshots/4.jpg)
+
 Menu i ekran zakładek 
 
 # Użyte technologie
